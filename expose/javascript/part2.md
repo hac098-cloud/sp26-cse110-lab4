@@ -87,11 +87,12 @@ Explanation: `Boolean(2)` is `true` because any nonzero number becomes `true`.
 15. Explain the difference between the `==` and `===` operators. `==` checks loose equality, so JavaScript may convert the two values to the same type before comparing them.  
 `===` checks strict equality, so both the value and the type must already be the same.
 
-    17. modifyArray([1,2,3], doSomething) returns [2,4,6].
+17. `modifyArray([1,2,3], doSomething)` returns `[2,4,6]`.
 
-    19. - 1 
-        - 4
-        - 3 
-        - 2
+19.
+   - 1
+   - 4
+   - 3
+   - 2
 
  
